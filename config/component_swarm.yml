@@ -1,0 +1,3 @@
+components_load_path: [
+  "app/assets/components"
+]
